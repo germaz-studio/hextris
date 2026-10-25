@@ -3,3 +3,8 @@
 *~
 *.swp
 *.swo
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
