@@ -1,0 +1,15 @@
+Hextris is an addictive, fast-paced puzzle game inspired by Tetris, ported natively to Android for F-Droid by Oskar Gerlicz-Kowalczuk (Germaz Studio).
+
+Rotate the outer hexagon to catch incoming colored blocks. Match three or more blocks of the same color to clear them before they stack beyond the gray hexagon boundary!
+
+Features:
+* Fullscreen responsive layout with high-refresh rate support
+* Simple and responsive touch controls (tap left/right to rotate)
+* Local high-score tracking and streak combo multipliers
+* Zero analytics, zero ads, zero telemetry
+* 100% Free and Open Source (MIT License)
+* Completely offline, zero permissions required
+
+Credits:
+* Original game concept and web version by Logan Engstrom & Garrett Finucane
+* Android port and mobile adaptations by Oskar Gerlicz-Kowalczuk (Germaz Studio)
