@@ -7,7 +7,7 @@ Features:
 * Simple and responsive touch controls (tap left/right to rotate)
 * Local high-score tracking and streak combo multipliers
 * Zero analytics, zero ads, zero telemetry
-* 100% Free and Open Source (MIT License)
+* 100% Free and Open Source (GNU GPL v3.0)
 * Completely offline, zero permissions required
 
 Credits:
