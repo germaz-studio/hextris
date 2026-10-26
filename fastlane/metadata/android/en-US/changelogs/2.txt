@@ -1,0 +1,2 @@
+- Removed tracking scripts and ads.
+- Removed third-party social share buttons.
